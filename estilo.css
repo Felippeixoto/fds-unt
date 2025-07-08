@@ -35,8 +35,8 @@ p{
 table{
     text-align: center;
     align-items: center;
-    justify-content: center;
-    display: inline-block;
+    justify-content: space-around;
+    display: inline-flex;
     padding: 5px;
     overflow: hidden;
 }
